@@ -1,4 +1,4 @@
-# le monde de Focus ☁️
+# The World of focus ☁️
 
 Une personne sans limite, remplie de défis et de détermination.  
 Rester **focus** sur ses objectifs, et ils deviendront **succès** et **mérite**. ✨  
