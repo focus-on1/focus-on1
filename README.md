@@ -18,7 +18,7 @@ Je touche à tout et ne recule devant aucun défi. 🛡️
 - Systèmes et réseaux  
 
 ## 🌍 Vision  
-Explorer, apprendre, créer, construire, mais surtout : **laisser une trace dans ce monde éphémère**. 🌐  
+Explorer, apprendre, créer, construire, mais surtout : **laisser une trace dans ce monde**. 🌐  
 Ma philosophie : *chaque défi est une opportunité déguisée*.  
 
 ## 🏆 Objectifs  
