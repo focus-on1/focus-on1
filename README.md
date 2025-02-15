@@ -100,7 +100,7 @@ const currentLearning = {
 ---
 
 <div align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=focus&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=focus-on1&theme=tokyonight)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=focus-on1&theme=tokyonight" />
 </div>
 
 > *"La sécurité n'est pas une destination, c'est un voyage continu."* 🌠
