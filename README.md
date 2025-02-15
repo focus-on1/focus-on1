@@ -103,7 +103,7 @@ const currentLearning = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=focus-on1&theme=tokyonight" />
 </div>
 
-> *"La sécurité n'est pas une destination, c'est un voyage continu."* 🌠
+> *"Rester focus, c'est transformer des rêves en réalité."* 🌠
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/focus/count.svg" />
