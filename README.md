@@ -18,10 +18,10 @@ class Focus:
     def __init__(self):
         self.username = "focus"
         self.passion = "Cybersécurité"
-        self.skills = ["Python", "C++", "HTML/CSS"]
+        self.skills = ["Python", "C++", "HTML/CSS","FLASK,Tawlindcss",]
         self.tools = ["Nmap", "SQLmap", "Wireshark", "Burp Suite"]
         self.community = "1500+ membres"
-        self.mission = "Protéger et innover"
+        self.mission = "Regarde au-delà des limites."
         
     def say_hi(self):
         print("Bienvenue dans mon univers de la cybersécurité ! 🚀")
