@@ -10,7 +10,6 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
-<img align="right" height="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 <h2>☁️ À Propos</h2>
 
