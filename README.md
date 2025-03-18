@@ -18,7 +18,7 @@ class Focus:
     def __init__(self):
         self.username = "focus"
         self.passion = "Cybersécurité"
-        self.certif = ["HACK TON LYCEE IDF n2 Bug bunty 3 ", "Cisco "]
+        self.certif = ["CyberChampion IDF n2  Bug bunty ", "Cisco "]
         self.skills = ["Python", "C++", "HTML/CSS","FLASK,Tawlindcss",]
         self.tools = ["Nmap", "SQLmap", "Wireshark", "Burp Suite"]
 
