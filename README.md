@@ -1,111 +1,89 @@
-# <div align="center">⚡ F O C U S ⚡</div>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7E7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%92%80+Cyberse%CC%81curite%CC%81+%26+Innovation+%F0%9F%92%80;%F0%9F%94%A5+De%CC%81termination+sans+limite+%F0%9F%94%A5;%F0%9F%8C%8C+Cre%CC%81ateur+de+solutions+%F0%9F%8C%8D)](https://git.io/typing-svg)
-
-</div>
+# FOCUS | Cybersecurity Specialist
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
-
-<h2>☁️ À Propos</h2>
+## About Me
 
 ```python
-class Focus:
+class FocusSecurity:
     def __init__(self):
-        self.username = "focus"
-        self.passion = "Cybersécurité"
-        self.certif = ["CyberChampion IDF n2  Bug bunty ", "Cisco "]
-        self.skills = ["Python", "C++", "HTML/CSS","FLASK,Tawlindcss",]
-        self.tools = ["Nmap", "SQLmap", "Wireshark", "Burp Suite"]
-
-        self.community = "1500+ membres"
-        self.mission = "Regarde au-delà des limites."
+        self.name = "Focus"
+        self.role = "Cybersecurity Specialist"
+        self.certifications = ["CyberChampion IDF n°2", "Cisco Certified"]
+        self.expertise = ["Penetration Testing", "Vulnerability Analysis", 
+                          "Security Automation", "Anti-Scam Solutions"]
+        self.languages = ["Python", "C++", "HTML/CSS", "JavaScript"]
+        self.frameworks = ["Flask", "TailwindCSS"]
+        self.tools = ["Nmap", "SQLmap", "Wireshark", "Burp Suite", "Metasploit"]
+        self.community = "1,500+ members"
         
-    def say_hi(self):
-        print("Bienvenue dans mon univers de la cybersécurité ! 🚀")
-
-me = Focus()
-me.say_hi()
+    def mission(self):
+        return "Pushing the boundaries of cybersecurity with innovative solutions."
 ```
 
-<h2>🎯 Projets Phares</h2>
+## Core Skills
 
-<details>
-<summary>🔍 Robot Détecteur de Vulnérabilités SQL</summary>
-<br>
-  
-- Développement d'une solution automatisée pour la détection de failles
-- Interface intuitive pour l'analyse des résultats
-- Base de données des vulnérabilités découvertes
-</details>
+- **Security Analysis**: Advanced vulnerability detection and remediation
+- **Automation**: Creating efficient security tools and workflows
+- **Threat Hunting**: Proactive identification of malicious activities
+- **Community Protection**: Building solutions to safeguard online communities
 
-<details>
-<summary>🤖 Bot LinkedIn Intelligent</summary>
-<br>
-  
-- Connecté à Telegram pour une gestion à distance
-- Système de prompts variés pour des réponses pertinentes
-- Optimisation de la visibilité professionnelle
-</details>
+## Key Projects
 
-<details>
-<summary>🛡️ Base de Données Anti-Scam</summary>
-<br>
-  
-- Plus de 4000 profils malveillants recensés
-- Système de signalement et de vérification
-- Protection active de la communauté
-</details>
+### Automated SQL Vulnerability Scanner
+- Enterprise-grade solution for detecting SQL injection vulnerabilities
+- Comprehensive reporting system with severity classification
+- Customizable scanning parameters for various environments
 
-<h2>🌟 Compétences</h2>
+### Intelligent Social Media Security Bot
+- Telegram integration for remote management and notifications
+- Advanced pattern recognition for identifying suspicious activities
+- Real-time monitoring and alerting system
 
-```text
-🔐 Cybersécurité     ███████████████████░   95%
-🐍 Python            ████████████████░░░░   80%
-🌐 Web Security      ███████████████░░░░░   75%
-🔧 Bug Bounty        ██████████████░░░░░░   70%
-🤖 Automatisation    ███████████████░░░░░   75%
+### Anti-Scam Database & API
+- Maintains a database of 4,000+ identified malicious profiles
+- Community-driven reporting system with verification protocols
+- REST API for integration with security platforms
+
+## Technical Proficiency
+
+```
+Security Testing     ■■■■■■■■■■■■■■■■■■■□□  90%
+Python               ■■■■■■■■■■■■■■■■□□□□□  80%
+Web Security         ■■■■■■■■■■■■■■■□□□□□□  75%
+Vulnerability Research■■■■■■■■■■■■■■□□□□□□□  70%
+Security Automation  ■■■■■■■■■■■■■■■□□□□□□  75%
 ```
 
-<h2>📊 Statistiques</h2>
+## Current Research
+
+- Advanced web application security testing methodologies
+- AI-powered malicious behavior detection systems
+- Zero-day vulnerability discovery techniques
+
+## Community Impact
+
+| Anti-Scam Community | Malicious Profiles Identified | Active Security Projects |
+|:-------------------:|:-----------------------------:|:------------------------:|
+| 1,500+ members      | 4,000+ documented            | 5+ ongoing              |
+
+## Contact
 
 <div align="center">
-  
-| Communauté Anti-Scam | Profils Malveillants Détectés | Projets Actifs |
-|:-------------------:|:-----------------------------:|:--------------:|
-| 1500+ membres       | 4000+ recensés               | 5+ en cours    |
-  
-</div>
-
-<h2>🎓 En Apprentissage</h2>
-
-```javascript
-const currentLearning = {
-  web: "Analyse avancée de vulnérabilités",
-  ia: "Détection de comportements malveillants",
-  security: "Nouvelles techniques d'exploitation"
-}
-```
-
-<h2>📫 Contact</h2>
-
-<div align="center">
-  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lighitmook)
-  
+  <a href="https://t.me/lighitmook">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=focus-on1&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=focus-on1&theme=github-dark" />
 </div>
 
-> *"Rester focus, c'est transformer des rêves en réalité."* 🌠
+> "Security is not a product, but a process." — Bruce Schneier
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/focus/count.svg" />
