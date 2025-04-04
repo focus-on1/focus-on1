@@ -1,73 +1,73 @@
-# FOCUS | Cybersecurity Specialist
+# FOCUS TO PROJECT
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHzHNlBIi4-gA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714323570266?e=1749081600&v=beta&t=rCnHIMLqR1jNkK2gTuHIrkL3fkRnwo7piPHd_ngiIX4" width="100%">
 </div>
 
-## About Me
+## À Propos
 
 ```python
 class FocusSecurity:
     def __init__(self):
-        self.name = "Focus"
-        self.role = "Cybersecurity Specialist"
+        self.nom = "Focus"
+        self.rôle = "Spécialiste en Cybersécurité"
         self.certifications = ["CyberChampion IDF n°2", "Cisco Certified"]
-        self.expertise = ["Penetration Testing", "Vulnerability Analysis", 
-                          "Security Automation", "Anti-Scam Solutions"]
-        self.languages = ["Python", "C++", "HTML/CSS", "JavaScript"]
+        self.expertise = ["Tests d'intrusion", "Analyse de vulnérabilités", 
+                          "Automatisation de sécurité", "Solutions Anti-Scam"]
+        self.langages = ["Python", "C++", "HTML/CSS", "JavaScript"]
         self.frameworks = ["Flask", "TailwindCSS"]
-        self.tools = ["Nmap", "SQLmap", "Wireshark", "Burp Suite", "Metasploit"]
-        self.community = "1,500+ members"
+        self.outils = ["Nmap", "SQLmap", "Wireshark", "Burp Suite", "Metasploit"]
+        self.communauté = "1 500+ membres"
         
     def mission(self):
-        return "Pushing the boundaries of cybersecurity with innovative solutions."
+        return "Repousser les limites de la cybersécurité avec des solutions innovantes."
 ```
 
-## Core Skills
+## Compétences Principales
 
-- **Security Analysis**: Advanced vulnerability detection and remediation
-- **Automation**: Creating efficient security tools and workflows
-- **Threat Hunting**: Proactive identification of malicious activities
-- **Community Protection**: Building solutions to safeguard online communities
+- **Analyse de Sécurité**: Détection et remédiation avancées des vulnérabilités
+- **Automatisation**: Création d'outils et de flux de travail de sécurité efficaces
+- **Détection de Menaces**: Identification proactive d'activités malveillantes
+- **Protection Communautaire**: Développement de solutions pour sécuriser les communautés en ligne
 
-## Key Projects
+## Projets Clés
 
-### Automated SQL Vulnerability Scanner
-- Enterprise-grade solution for detecting SQL injection vulnerabilities
-- Comprehensive reporting system with severity classification
-- Customizable scanning parameters for various environments
+### Scanner Automatisé de Vulnérabilités SQL
+- Solution professionnelle pour la détection de vulnérabilités d'injection SQL
+- Système de rapports complet avec classification par niveau de gravité
+- Paramètres de scan personnalisables pour différents environnements
 
-### Intelligent Social Media Security Bot
-- Telegram integration for remote management and notifications
-- Advanced pattern recognition for identifying suspicious activities
-- Real-time monitoring and alerting system
+### Bot Intelligent de Sécurité pour Réseaux Sociaux
+- Intégration avec Telegram pour gestion et notifications à distance
+- Reconnaissance avancée de modèles pour identifier les activités suspectes
+- Système de surveillance et d'alerte en temps réel
 
-### Anti-Scam Database & API
-- Maintains a database of 4,000+ identified malicious profiles
-- Community-driven reporting system with verification protocols
-- REST API for integration with security platforms
+### Base de Données Anti-Scam & API
+- Maintient une base de données de plus de 4 000 profils malveillants identifiés
+- Système de signalement communautaire avec protocoles de vérification
+- API REST pour l'intégration avec des plateformes de sécurité
 
-## Technical Proficiency
+## Expertise Technique
 
 ```
-Security Testing     ■■■■■■■■■■■■■■■■■■■□□  90%
+Tests de Sécurité    ■■■■■■■■■■■■■■■■■■■□□  90%
 Python               ■■■■■■■■■■■■■■■■□□□□□  80%
-Web Security         ■■■■■■■■■■■■■■■□□□□□□  75%
-Vulnerability Research■■■■■■■■■■■■■■□□□□□□□  70%
-Security Automation  ■■■■■■■■■■■■■■■□□□□□□  75%
+Sécurité Web         ■■■■■■■■■■■■■■■□□□□□□  75%
+Recherche de Vulnérabilités ■■■■■■■■■■■■■■□□□□□□□  70%
+Automatisation de Sécurité ■■■■■■■■■■■■■■■□□□□□□  75%
 ```
 
-## Current Research
+## Recherches Actuelles
 
-- Advanced web application security testing methodologies
-- AI-powered malicious behavior detection systems
-- Zero-day vulnerability discovery techniques
+- Méthodologies avancées de test de sécurité des applications web
+- Systèmes de détection de comportements malveillants basés sur l'IA
+- Techniques de découverte de vulnérabilités zero-day
 
-## Community Impact
+## Impact Communautaire
 
-| Anti-Scam Community | Malicious Profiles Identified | Active Security Projects |
-|:-------------------:|:-----------------------------:|:------------------------:|
-| 1,500+ members      | 4,000+ documented            | 5+ ongoing              |
+| Communauté Anti-Scam | Profils Malveillants Identifiés | Projets de Sécurité Actifs |
+|:--------------------:|:-------------------------------:|:--------------------------:|
+| 1 500+ membres       | 4 000+ documentés              | 5+ en cours               |
 
 ## Contact
 
@@ -83,7 +83,7 @@ Security Automation  ■■■■■■■■■■■■■■■□□□□�
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=focus-on1&theme=github-dark" />
 </div>
 
-> "Security is not a product, but a process." — Bruce Schneier
+> "La sécurité n'est pas un produit, mais un processus." — Bruce Schneier
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/focus/count.svg" />
