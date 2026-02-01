@@ -15,10 +15,10 @@ class FocusSecurity:
         self.frameworks = ["Flask", "TailwindCSS"]
         self.outils = ["Nmap", "SQLmap", "Wireshark", "Burp Suite", "Metasploit"]
         self.communauté = "1 500+ membres"
-        
+
     def mission(self):
         return "Repousser les limites de la cybersécurité avec des solutions innovantes."
-```
+
 ## Compétences Principales
 - **Analyse de Sécurité**: Détection et remédiation avancées des vulnérabilités
 - **Automatisation**: Création d'outils et de flux de travail de sécurité efficaces
@@ -38,7 +38,7 @@ class FocusSecurity:
 - Système de signalement communautaire avec protocoles de vérification
 - API REST pour l'intégration avec des plateformes de sécurité
 ## Expertise Technique
-```
+
 Tests de Sécurité    ■■■■■■■■■■■■■■■■■■■□□  90%
 Python               ■■■■■■■■■■■■■■■■□□□□□  80%
 Sécurité Web         ■■■■■■■■■■■■■■■□□□□□□  75%
@@ -67,7 +67,3 @@ Automatisation de Sécurité ■■■■■■■■■■■■■■■□□
 <div align="center">
   <img src="https://profile-counter.glitch.me/focus/count.svg" />
 </div>
-
-
-
-avec tout ce que tu ses de moi et les projet que on a fait modifie et ameliore le disgane
