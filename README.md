@@ -79,7 +79,7 @@ class FocusDeveloper:
 - Sites vitrine multi-secteurs (plomberie, auto-écoles, services)
 
 ### SaaS & Applications Métier
-**Focus Call (3CX)** • **Notalec** • **PatchMap** • **MemoArt**
+**Focus Call (3CX)** • **Notalec** • **PatchMap** • **MemoArt** • **Jobfolio**
 - Intégration téléphonie VoIP professionnelle
 - Plateforme sociale de lecture avec QCM
 - Outil DCIM de visualisation infrastructure
