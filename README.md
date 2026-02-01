@@ -1,4 +1,4 @@
-# FOCUS - Cybersecurity & Web Solutions Expert
+# FOCUS 
 
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQHzHNlBIi4-gA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714323570266?e=1749081600&v=beta&t=rCnHIMLqR1jNkK2gTuHIrkL3fkRnwo7piPHd_ngiIX4" width="100%">
