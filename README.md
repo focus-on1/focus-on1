@@ -4,7 +4,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D5616AQHzHNlBIi4-gA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714323570266?e=1749081600&v=beta&t=rCnHIMLqR1jNkK2gTuHIrkL3fkRnwo7piPHd_ngiIX4" width="100%">
 </div>
 
-## 👨‍💻 À Propos
+##  À Propos
 
 ```python
 class FocusProfile:
@@ -44,7 +44,7 @@ class FocusProfile:
         """
 ```
 
-## 🚀 Projets Majeurs en Production
+## Projets Majeurs en Production
 
 ### 🎨 **MemoArt** - Plateforme de Messages Émotionnels
 > *Startup en développement - Innovation NFC/QR*
