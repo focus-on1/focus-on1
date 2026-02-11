@@ -1,4 +1,4 @@
-# FOCUS - Cybersecurity & Full-Stack Development
+# FOCUS - Cybersecurity & Development
 
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQHzHNlBIi4-gA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714323570266?e=1749081600&v=beta&t=rCnHIMLqR1jNkK2gTuHIrkL3fkRnwo7piPHd_ngiIX4" width="100%">
@@ -11,7 +11,7 @@ class FocusProfile:
     def __init__(self):
         self.nom = "FOCUS"
         self.statut = "Étudiant BTS CIEL | Administrateur Systèmes & Réseaux"
-        self.entreprise = "MeoNet - MSP pour PME"
+        self.entreprise = "PME"
         
         self.certifications = [
             "3CX Advanced Certified Engineer V20",
@@ -76,16 +76,6 @@ Plateforme web complète avec système de réservation, menu digital et gestion 
 
 ---
 
-### 🚗 **Auto-École Tastys** - Plateforme de Réservation
-> *Client professionnel - En production*
-
-Site web avec système de prise de rendez-vous pour auto-école, gestion des élèves et instructeurs.
-
-**Stack:** Flask, PostgreSQL, JavaScript, TailwindCSS  
-**Features:** Calendrier interactif, notifications automatiques, espace élève/instructeur
-
----
-
 ### 🛡️ **Base de Données Anti-Scam & API**
 > *Projet communautaire - 4 000+ profils documentés*
 
@@ -97,30 +87,13 @@ API REST pour identifier et signaler les profils malveillants sur les réseaux s
 
 ---
 
-### 📚 **Notalec** - Plateforme de Lecture Collaborative
+### 📚 **Notalec.net ** - Plateforme de Lecture Collaborative
 > *Projet personnel*
 
 Application web de partage et discussion autour de la lecture.
 
 **Stack:** Flask, PostgreSQL, TailwindCSS
 
----
-
-### 📱 **Phone Store 75** - Service de Réparation Mobile
-> *Projet entrepreneurial*
-
-Plateforme de gestion et prise de rendez-vous pour réparations de smartphones.
-
----
-
-### 🌐 **PatchMap** - Outil de Cartographie Réseau
-> *Outil professionnel pour DCIM*
-
-Solution de mapping automatique des infrastructures réseau pour MeoNet.
-
-**Stack:** Python, Network Automation
-
-## 💼 Expertise Technique
 
 ### Cybersécurité & Réseaux
 ```
@@ -144,11 +117,6 @@ Linux Administration     ██████████████████�
 Configuration Firewall   ████████████████████░ 95%
 Automatisation           ██████████████████░░░ 85%
 ```
-
-## 🎓 Formation & Certifications
-
-**BTS CIEL** - Cybersécurité, Informatique et Réseaux (En cours)  
-Spécialisation en administration système, réseaux et développement
 
 **Certifications Professionnelles:**
 - 🏆 3CX Advanced Certified Engineer V20
@@ -188,13 +156,7 @@ Spécialisation en administration système, réseaux et développement
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=focus-on1&theme=github-dark" />
 </div>
 
-## 🎯 Objectifs Actuels
 
-- 🔐 Approfondir les compétences en sécurité offensive et défensive
-- 🚀 Lancer officiellement MemoArt sur le marché
-- 📱 Développer Focus Call comme solution SaaS
-- 🎓 Obtenir le BTS CIEL avec excellence
-- 🌐 Élargir le portfolio de clients professionnels
 
 ## 📈 Impact
 
